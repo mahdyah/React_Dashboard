@@ -24,7 +24,8 @@
     grid-auto-rows: minmax(100px, auto);
     margin-left: 2%;
     margin-top: 5%;
-    background: #71698b;
+    
+    background:linear-gradient(3600deg, #71698b 0%, #3a3e4e 0%, #71698b 100%);
     border-radius: 2%;
     color: white;
   }
@@ -88,4 +89,5 @@ h5{
     font-size: 40px;
  
 }
+
 
